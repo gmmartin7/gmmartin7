@@ -17,7 +17,8 @@
   <img align="center" alt="Rafa-TypeScript" height="33" width="43" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rafa-PHP" height="45" width="55" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Spring" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Rafa-Spring" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Rafa-React" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Rafa-Heroku" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg">
 
 </div>
   
