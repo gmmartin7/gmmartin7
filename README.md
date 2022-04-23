@@ -1,4 +1,4 @@
-## Ola eu sou o Gabriel Martins
+## Olá! eu sou o Gabriel Martins
 
 <div align="center">
   <a href="https://github.com/gmmartin7">
